@@ -1,3 +1,3 @@
-module git.sr.ht/~ndb/learn-go-with-tests
+module github.com/strangegopher/learn-go-with-tests
 
 go 1.25.1
